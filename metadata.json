@@ -1,0 +1,6 @@
+{
+  "name": "TempoFit - Siavonga Runcation 2026 Executive Dashboard",
+  "description": "Executive dashboard for TempoFit Running Club featuring Siavonga Runcation 2026 registration analytics, revenue KPIs, Chart.js visualizations, and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
